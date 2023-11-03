@@ -31,6 +31,10 @@ and WiFi-capable system.
 ![Image](./images/epaper.JPG)  
 micro_gui now has limited support for ePaper.
 
+---
+enhanced support for RPi Pico + 
+[Pico LCD 1.3](https://www.waveshare.com/wiki/Pico-LCD-1.3)
+
 # Rationale
 
 Touch GUI's have many advantages, however they have drawbacks, principally cost
